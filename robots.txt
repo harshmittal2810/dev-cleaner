@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://harshmittal2810.github.io/dev-cleaner/sitemap.xml
+
