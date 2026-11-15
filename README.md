@@ -4,6 +4,7 @@
     <a href="https://github.com/harshmittal2810/dev-cleaner">
         <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Status">
     </a>
+    <img src="https://img.shields.io/badge/Version-v1.0.0-blue" alt="Version v1.0.0">
     <a href="https://github.com/harshmittal2810/dev-cleaner/stargazers">
         <img src="https://img.shields.io/github/stars/harshmittal2810/dev-cleaner" alt="GitHub stars">
     </a>
@@ -12,6 +13,8 @@
 <p align="center">
   <img src="./images/screenshot.png" alt="Dev Cleaner interactive menu" style="width:100%; height:auto; border-radius: 8px;"/><br>
 </p>
+
+**Current version: v1.0.0**
 
 ## Support Latest macOS/Linux/Windows Dev Environments
 

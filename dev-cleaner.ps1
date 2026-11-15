@@ -1,7 +1,7 @@
 ﻿# -----------------------------------------------------------------------------
 # Dev Cleanup Utility - Windows PowerShell Edition
 # -----------------------------------------------------------------------------
-# Version: 1.2.0
+# Version: 1.0.0
 # Platform: Windows (PowerShell 5.1+)
 # -----------------------------------------------------------------------------
 
@@ -13,7 +13,7 @@ param(
 )
 
 # --- Global Variables ---
-$SCRIPT_VERSION = "1.2.0"
+$SCRIPT_VERSION = "1.0.0"
 $GITHUB_REPO = "https://github.com/harshmittal2810/dev-cleaner"
 
 # --- Error Tracking ---
