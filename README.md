@@ -1,16 +1,16 @@
 # 🧹 Dev Cleaner Utility
 
 <p align="center">
-    <a href="YOUR_GITHUB_REPO_LINK">
+    <a href="https://github.com/harshmittal2810/dev-cleaner">
         <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Status">
     </a>
-    <a href="YOUR_GITHUB_REPO_LINK/stargazers">
+    <a href="https://github.com/harshmittal2810/dev-cleaner/stargazers">
         <img src="https://img.shields.io/github/stars/harshmittal2810/dev-cleaner" alt="GitHub stars">
     </a>
 </p>
 
 <p align="center">
-  <img src="./images/poster_1.0.1.png" alt="poster_1.0.1" style="width:100%; height:auto; style="border-radius: 8px;"/><br>
+  <img src="./images/screenshot.png" alt="Dev Cleaner interactive menu" style="width:100%; height:auto; border-radius: 8px;"/><br>
 </p>
 
 ## Support Latest macOS/Linux/Windows Dev Environments
